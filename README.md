@@ -1,7 +1,8 @@
 - 👋 Hi, I’m ibrahim (pereo)
+-😢 I am a student at the TIC, Software Department 
 - 👀 I’m interested in Anime , Games ,  
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
